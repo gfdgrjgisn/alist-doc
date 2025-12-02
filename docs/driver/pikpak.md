@@ -5,10 +5,10 @@ sidebar_position: 11
 # PikPak
 
 ### 用户名
-用户名，邮箱
+2787483289@gmail.com
 
 ### 密码
-密码
+Xue010355
 
 ### root folder id
 可在https://mumuchenchen.github.io/pikpak 这个网站登录查看：
